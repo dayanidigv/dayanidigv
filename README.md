@@ -40,7 +40,7 @@ I am Dayanidi, a 19-year-old college student currently pursuing a B.Tech in Info
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dayanidigv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20better,%20not%20comment.)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20better,%20not%20comment.&border=true)
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=dayanidigv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
