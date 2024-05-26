@@ -15,7 +15,7 @@ I am Dayanidi, a 19-year-old college student currently pursuing a B.Tech in Info
 
 # 💻 Tech Stack:
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white&logoWidth=40) 
 ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![PHP](https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white) 
