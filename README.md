@@ -2,6 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/dayanidigv?style=social)](https://github.com/dayanidigv?tab=followers)
 
 ---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dayanidigv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 # 👋 Hi, I'm Dayanidi
 
 Welcome to my GitHub profile! I'm a passionate coder and aspiring software developer. Here you'll find an overview of my skills, projects, and how to reach me. Feel free to explore and connect!
