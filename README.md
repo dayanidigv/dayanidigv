@@ -2,7 +2,7 @@
 [![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
 
 ---
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dayanidigv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
 # 👋 Hi, I'm Dayanidi
 
 Welcome to my GitHub profile! I'm a passionate coder and aspiring software developer. Here you'll find an overview of my skills, projects, and how to reach me. Feel free to explore and connect!
