@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=dayanidigv&icon=2&color=1)](https://visitcount.itsvg.in)
-[![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
+[![GitHub followers](https://img.shields.io/github/followers/dayanidigv?style=social)](https://github.com/dayanidigv?tab=followers)
 
 ---
 [![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
