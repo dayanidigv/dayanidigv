@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate coder and aspiring software devel
 
 # 💥 About Me:
 
-I am Dayanidi, a 19-year-old college student currently pursuing a B.Tech in Information Technology at KSR College of Engineering in Tiruchengode, Tamil Nadu. Coding is my passion, and I'm always eager to learn and grow in the field.
+I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Information Technology at KSR College of Engineering in Tiruchengode, Tamil Nadu. Coding is my passion, and I'm always eager to learn and grow in the field.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dayanidigv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanidi-coder/)
