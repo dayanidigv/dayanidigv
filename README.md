@@ -3,8 +3,7 @@
 
 ---
 [![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
-# 👋 Hi, I'm Dayanidi
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi%2C+I'm+Dayanidi;How+vexingly+quick+daft+zebras+jum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Dayanidi)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate coder and aspiring software developer. Here you'll find an overview of my skills, projects, and how to reach me. Feel free to explore and connect!
 
