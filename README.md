@@ -27,7 +27,6 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
     </tr>
   </thead>
   <tbody>
-    <!-- Front-End Technologies -->
     <tr>
       <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
         <strong>Front-End Technologies</strong>
@@ -82,8 +81,6 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
       </td>
       <td></td>
     </tr>
-
-    <!-- Databases -->
     <tr>
       <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
         <strong>Databases</strong>
@@ -99,8 +96,6 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
         <br><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
       </td>
     </tr>
-
-    <!-- Programming Languages -->
     <tr>
       <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
         <strong>Programming Languages</strong>
@@ -126,8 +121,6 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
         <br><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50">
       </td>
     </tr>
-
-    <!-- Version Control -->
     <tr>
       <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
         <strong>Version Control</strong>
@@ -143,8 +136,6 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
         <br><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
       </td>
     </tr>
-
-    <!-- Development Tools -->
     <tr>
       <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
         <strong>Development Tools</strong>
