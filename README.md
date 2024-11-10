@@ -20,73 +20,144 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
 
 # 🚀 Tech Stack & Tools I Use
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center;">
-    <thead>
-      <tr>
-        <th style="padding: 10px; border: 1px solid #ddd;">Technology</th>
-        <th style="padding: 10px; border: 1px solid #ddd;">Icon</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">React</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">Python</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">JavaScript</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">C++</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">MySQL</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border: 1px solid #ddd;">C#</td>
-        <td style="padding: 10px; border: 1px solid #ddd;">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<table style="width: 100%; border-collapse: collapse; text-align: center; margin-top: 20px;">
+  <thead>
+    <tr>
+      <th colspan="2" style="font-size: 24px; padding: 15px; border: 1px solid #ddd; background-color: #f4f4f4;">Tech Stack & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Front-End Technologies -->
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Front-End Technologies</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>React</strong>
+        <br><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>HTML5</strong>
+        <br><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>CSS3</strong>
+        <br><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Tailwind CSS</strong>
+        <br><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Bootstrap</strong>
+        <br><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Back-End Technologies</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Node.js</strong>
+        <br><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Laravel</strong>
+        <br><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="50" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>PHP</strong>
+        <br><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50">
+      </td>
+      <td></td>
+    </tr>
 
-<style>
-  /* Responsive design for small screens */
-  @media (max-width: 768px) {
-    table {
-      width: 100%;
-    }
+    <!-- Databases -->
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Databases</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>MongoDB</strong>
+        <br><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>MySQL</strong>
+        <br><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
+      </td>
+    </tr>
 
-    td, th {
-      font-size: 14px;
-      padding: 8px;
-    }
+    <!-- Programming Languages -->
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Programming Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Python</strong>
+        <br><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>JavaScript</strong>
+        <br><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>C++</strong>
+        <br><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>C#</strong>
+        <br><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50">
+      </td>
+    </tr>
 
-    img {
-      width: 50px;
-      height: 50px;
-    }
-  }
-</style>
+    <!-- Version Control -->
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Version Control</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>Git</strong>
+        <br><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="50" height="50">
+      </td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <strong>GitHub</strong>
+        <br><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
+      </td>
+    </tr>
+
+    <!-- Development Tools -->
+    <tr>
+      <td colspan="2" style="padding: 10px; font-size: 18px; background-color: #f9f9f9; border: 1px solid #ddd;">
+        <strong>Development Tools</strong>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 10px; border: 1px solid #ddd;">
+        <strong>VS Code</strong>
+        <br><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 # 🚀 Tech Stack & Tools I Use
