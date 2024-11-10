@@ -33,6 +33,7 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
 # 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="56" height="56" /></div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
