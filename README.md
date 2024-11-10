@@ -17,6 +17,78 @@ I am Dayanidi, a 20-year-old student pursuing a **B.Tech in Information Technolo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dayanidigv/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanidi-coder/)
 
+
+# 🚀 Tech Stack & Tools I Use
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center;">
+    <thead>
+      <tr>
+        <th style="padding: 10px; border: 1px solid #ddd;">Technology</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Icon</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">React</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">Python</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">JavaScript</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">C++</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">MySQL</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ddd;">C#</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<style>
+  /* Responsive design for small screens */
+  @media (max-width: 768px) {
+    table {
+      width: 100%;
+    }
+
+    td, th {
+      font-size: 14px;
+      padding: 8px;
+    }
+
+    img {
+      width: 50px;
+      height: 50px;
+    }
+  }
+</style>
+
+
 # 🚀 Tech Stack & Tools I Use
 
 ### Front-End Technologies:
