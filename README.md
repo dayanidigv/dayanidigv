@@ -98,32 +98,7 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
         <br>VSCode
       </td>
     </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-        <br>Azure
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Google Cloud" />
-        <br>Google Cloud
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-        <br>GitLab
-      </td>
-    </tr>
+   
   </table>
 </div>
 
