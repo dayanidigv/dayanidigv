@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/dayanidigv?style=social)](https://github.com/dayanidigv?tab=followers)
 
 ---
-[![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
+![Profile](https://avatars.githubusercontent.com/u/93707264?v=4)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Dayanidi)](https://git.io/typing-svg)
 
@@ -106,7 +106,7 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
 <p align="center">
 
 <a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=dayanidigv&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt=""/></a>
-<a href="#"><img src="https://nirzak-streak-stats.vercel.app/?user=dayanidigv"  width="48%" alt=""/></a>
+<a href="#"><img src="https://nirzak-streak-stats.vercel.app/?user=dayanidigv&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"  width="48%" alt=""/></a>
 
 </p>
 
