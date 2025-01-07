@@ -106,7 +106,7 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
 <p align="center">
 
 <a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=dayanidigv&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt=""/></a>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=dayanidigv&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt=""/></a>
+<a href="#"><img src="https://nirzak-streak-stats.vercel.app/?user=dayanidigv"  width="48%" alt=""/></a>
 
 </p>
 
