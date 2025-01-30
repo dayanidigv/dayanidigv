@@ -34,23 +34,15 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
         <br>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br>MySQL
       </td>
       <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C#
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
       </td>
     </tr>
     <tr>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
       <td align="center" width="100">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
         <br>Git
@@ -82,20 +74,12 @@ I am Dayanidi, a 20-year-old college student currently pursuing a B.Tech in Info
         <br>jQuery
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
         <br>PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-        <br>VSCode
       </td>
     </tr>
    
